@@ -8,5 +8,18 @@ Chantier, atelier, service: Access Code School
 	nom projet: bikePSD
 	!RICERCA: sono andato su un sito per recuperare un template psd (link) fatto da un grafista tenendo conto della grafica
 	e di una prima idea di come sarebbe stato il LAYOUT in un ambiente MOBILE.
-	!PREPARAZIONE DEL LAVORO: dopo aver preparato un primo WIREFRAME della pagina in versione WEB, utilizzando un SOFTWARE 
-	per l'apertura del FILE .PSD ho individuato le prime parti da esportare nel codice come: immagini, loghi e FONTS.    
+	!PREPARAZIONE DEL LAVORO: ho voluto creare una REPOSITORY su Github in modo da organizzare e aggiornare il lavoro ad ogni modifica.
+	Dopo aver preparato un primo WIREFRAME della pagina in versione WEB, utilizzando Krita, un SOFTWARE 
+	per l'apertura del FILE .PSD, ho individuato le prime parti da esportare nel codice come: immagini, loghi e FONTS.
+	le immagini le ho ritagliate dal TEMPLATE direttamente da Krita, i loghi li ho estratti da Flaticon() e per le FONTS ho usato
+	un sito di riconoscimento di FONT partendo da uno SCREENSHOT per sapere il nome e poi scaricarle.
+	!ESECUZIONE: l'obbiettivo principale era quello di riuscire ad integrare Bootstrap e la sua libreria il piu possible, utilizzando principalmente PRESET di
+	CARDS, NAV e usando il sistema grid per facilitare l'esposizione per poi implementare le opzioni di colore, BORDERS, DISPLAY e centralizzazione di testo.
+	il FILE css è stato usato per integrare FONTS, adattare la pagina a dimensioni di schermi MOBILE e per tutto cio che Bootstrap non puo modificare.
+	!PROBLEMI RISCONTRATI: i problemi riscontrati sono stati maggiormente dati da una difficoltà di aggiungere degli elementi grafici che sono 
+	facili da aggiungere usando la grafica ma meno riuscendo a convertirlo in codice funzionale e quindi una difficoltà nella disposizione di certi elementi come
+	immagini e elementi Bootstrap con una loro propria dinamica.
+	!FINE: in fine il progetto è stato caricato su un server dato a disposizione della formazione accedendovi con il SOFTWARE FileZilla. 
+	
+	
+	
