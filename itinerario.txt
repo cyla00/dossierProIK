@@ -1,0 +1,12 @@
+!#! parole maiuscole inglesi da scrivere in italico
+
+
+# 04/05/2020 au 20/05/2020 (front-end)
+Nom de l’entreprise, organisme ou association: Onlineformapro
+Chantier, atelier, service: Access Code School
+1.1 integration maquette PSD avec Bootstrap
+	nom projet: bikePSD
+	!RICERCA: sono andato su un sito per recuperare un template psd (link) fatto da un grafista tenendo conto della grafica
+	e di una prima idea di come sarebbe stato il LAYOUT in un ambiente MOBILE.
+	!PREPARAZIONE DEL LAVORO: dopo aver preparato un primo WIREFRAME della pagina in versione WEB, utilizzando un SOFTWARE 
+	per l'apertura del FILE .PSD ho individuato le prime parti da esportare nel codice come: immagini, loghi e FONTS.    
