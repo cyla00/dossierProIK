@@ -1,0 +1,23 @@
+Front : HTML/CSS, Javascript, frameworks Bootstrap, React et React Native, moteur de template Twig
+Back :  PHP, MySQL, framework  Symfony
+Outil de développement, travail collaboratif : Git & GitHub
+
+
+
+
+Monsieur,
+ 
+Dans le cadre de ma formation professionnelle de développeur web et web mobile, je recherche un stage à compter du 30 octobre 2020 au 08 janvier 2021.
+ 
+Mon parcours, complété par ma passion pour internet et l'informatique, me permet d'acquérir les connaissances techniques et pratiques indispensables à l'exercice de ce métier. Dans le cadre de ma formation, j'apprends différents langages de programmation (PHP, MySQL, JavaScipt, HTML/CSS) et je vais évoluer sur un framework front, un framework web pour le développement mobile et un framework back, je désire consolider mes compétences par une pratique dans des conditions professionnelles. Je suis par ailleurs très intéressée par la découvertes de potentiels autres langages de programmation.
+ 
+Jusqu’à présent, j’ai d’abord réalisé l’intégration d’une maquette au format PSD en utilisant Bootstrap essentiellement. Par la suite, j’ai travaillé en collaboration avec un de mes collègues : en reprenant son premier projet, j’ai remplacé l’ensemble des éléments requiérant le style de Bootstrap par du CSS3 ( des flexbox et medi queries) et par du Javascript pour les components. L’ensemble des sites que je réalise sont responsive et s’adaptent aux différentes tailles d’écran. Je suis habituée à versionner mon code avec Git et à le partager sur mon GitHub, que j'utilise par ailleurs pour collaborer sur des projets avec d'autres développeurs : https://github.com/emmaleger58
+
+Bien que les projets que j'ai déjà réalisé soient orientés front-end, je vais également étudier le back-end ainsi que d’autres langages.
+ 
+A la fin de ma formation, je souhaite m’orienter davantage sur le développement d’applications mobiles. C’est pourquoi Docorga est une entreprise qui m’intéresse : en plus de répondre aux demandes de mon stage, je vais pouvoir appréhender un domaine qui me séduit.
+ 
+Je reste à votre entière disposition pour vous détailler plus en avant mes motivations.
+ 
+Je vous prie d’agréer, Monsieur, mes salutations distinguées.
+

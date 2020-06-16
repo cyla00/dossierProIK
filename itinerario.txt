@@ -1,6 +1,5 @@
 !#! parole maiuscole inglesi da scrivere in italico
 
-
 # 04/05/2020 au 20/05/2020 (front-end)
 Nom de l’entreprise, organisme ou association: Onlineformapro
 Chantier, atelier, service: Access Code School
@@ -21,5 +20,31 @@ Chantier, atelier, service: Access Code School
 	immagini e elementi Bootstrap con una loro propria dinamica.
 	!FINE: in fine il progetto è stato caricato su un server dato a disposizione della formazione accedendovi con il SOFTWARE FileZilla. 
 	
+# 25/05/2020 au 29/05/2020 (front-end)
+Nom de l’entreprise, organisme ou association: Onlineformapro
+Chantier, atelier, service: Access Code School
+1.2 conversion maquette Bootstrap en full css
+	nom projet: integration M2
+	!PREPARAZIONE DEL LAVORO: ho recuperato il TEMPLATE di un collega fatto in bootstrap clonandolo da github per poi creare una mia REPOSITORY
+	e cambiare il link dell'origin master usando il comando "git remote set-url origin", per un problema del SOURCE CODE senza immagini ho dovuto contattare l'autore
+	per farmi dare le cartelle con le immagini utili per il DISPLAY corretto della pagina.
+	!ESECUZIONE: dopo un veloce ripasso del codice identificando le classi bootstrap ho usato la documentazione per sapere di cosa si trattasse la conversione in 
+	css, ho dovuto fare delle modifiche anche all' html in modo da avere lo stesso risultato, per esempio inglobare degli elementi in un CONTAINER in modo da posizionarli
+	piu facilmente.
+	!PROBLEMI RISCONTRATI: principalmente, la maggiore difficoltà é stata nel capire e modificare gli elementi INNERHTML, riorganizzarli in modo da esporre lo stesso risultato 
+	del DISPLAY automatico di Bootstrap e di poterli modificare ancora una volta per regolare la positione nei CONTAINER.
+	!FINE: in fine il progetto é stato caricato sulla nuova REPOSITORY github.
 	
-	
+# 01/06/2020
+Nom de l’entreprise, organisme ou association: Onlineformapro
+Chantier, atelier, service: Access Code School
+1.3 initialisation en PHP avec un explorateur de fichiers
+	nom projet: Explorateur de fichiers
+	!preparazione del lavoro: per iniziare ho dovuto leggere qualche informazione riguardante PHP, un linguaggio che non avevo mai sperimentato prima,
+	già familiarizzato con javascript non é stato troppo difficile capire la sintassi.
+	ho creato un nuovo file .php dentro la DIRECTORY /www di Wamp, essendo php un linguaggio interpretato da server, per poi dare una base di html per vedere una prima rappresentazione grafica.
+	!ESECUZIONE: con l'aiuto dei colleghi e della documentazione ho scoperto le funzioni adatte per riconoscere e listare i file dentro una directory, riconoscere se gli elementi in questione 
+	fossero delle cartelle o file normali, la creazione e l eliminazione di essi e come richiedere o inviare informazioni usando $_POST e $_GET.
+	ho cercato di dividere le varie funzionalità in diversi file .php e collegarli al file principale usando la funzione "require()".
+	!PROBLEMI RISCONTRATI: il problema principale é stato capire e organizzare la logica nel codice per farlo funzionare in maniera coerente tra richieste e $_POST.
+	!FINE: in fine il progetto é stato caricato sul server dato a disposizione usando il protocollo SSH e messo tra le REPOSITORY di Github. 
